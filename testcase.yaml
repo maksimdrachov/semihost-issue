@@ -1,0 +1,6 @@
+tests:
+  verification.integration.semihost:
+    arch_allow: arm
+    build_only: false
+    # platform_type:
+    #   - qemu
